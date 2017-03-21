@@ -17,3 +17,9 @@ Next button to display next question , Previous button to display previous quest
 In Quiz application we have some data to be saved and managed . That data is nothing but questions , answers , options . 
 
 To save questions , answers , options we use JSON array.
+
+
+===========================================================================
+
+Contact manager is a android project it's same as contact app of android  
+
